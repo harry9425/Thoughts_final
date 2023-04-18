@@ -4,7 +4,7 @@ https://user-images.githubusercontent.com/101708836/232889942-db6c2570-dfb8-43fe
 
 Youtube Link: https://youtu.be/-SdqSp2aMfY
 
-# Thoughts on Flutter is a revolutionary app that offers a platform for individuals to share their thoughts, emotions, and experiences with the world in an anonymous or public manner. Developed using the Dart Flutter framework and Firebase, the app enables users to connect with one another, form communities, and make friends while also providing a secure space for open communication.
+# Thoughts on Flutter is a app that offers a platform for individuals to share their thoughts, emotions, and experiences with the world in an anonymous or public manner. Developed using the Dart Flutter framework and Firebase, the app enables users to connect with one another, form communities, and make friends while also providing a secure space for open communication.
 
 ![WhatsApp Image 2023-04-19 at 1 11 45 AM](https://user-images.githubusercontent.com/101708836/232887831-34d135ba-2fbd-44ac-bc60-8e80cf896d6d.jpeg)
 
